@@ -27,4 +27,4 @@ Conoce más en este video
 
 [![w:800](http://i3.ytimg.com/vi/hDl7VoV2Q-s/hqdefault.jpg)](https://www.youtube.com/watch?v=hDl7VoV2Q-s)
 
-Tambien puedes visitar [ada-school.org](https://ada-school.org)
+También puedes visitar [ada-school.org](https://ada-school.org)
