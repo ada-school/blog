@@ -23,4 +23,8 @@ Ofrecemos cursos virtuales que incorporan habilidades blandas y tecnologías que
 Nuestra metodología pretende cerrar la brecha entre la instría y la educación actual. Usamos la tecnología para transformar
 la educacion en la herramienta que debe ser, inclusiva, práctica y personalizada.
 
-Conoce más en [este video](https://www.youtube.com/watch?v=hDl7VoV2Q-s) o visita [ada-school.org](https://ada-school.org)
+Conoce más en este video
+
+[![w:800](http://i3.ytimg.com/vi/hDl7VoV2Q-s/hqdefault.jpg)](https://www.youtube.com/watch?v=hDl7VoV2Q-s)
+
+Tambien puedes visitar [ada-school.org](https://ada-school.org)
