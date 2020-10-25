@@ -1,4 +1,4 @@
-# ADA School Blog
+# ¿Qué es ADA School?
 
 En este blog encontrarás artículos que te ayudaran a tu crecimiento profesional. 
 Nuestros artículos son creados por expertos de la industria, incluyendo temas técnicos y habilidades profesionales.
