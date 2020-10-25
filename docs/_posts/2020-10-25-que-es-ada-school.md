@@ -7,7 +7,7 @@ category: ada-school
 
 ## ¿Qué es ADA School?
 
-Ada School es una proyecto que pretende entrenar a todas las personas en hablididades técnicas y blandas.
+Ada School es un proyecto que pretende entrenar a todas las personas en hablididades técnicas y blandas.
 Preparando a sus alumnos para el mercado laboral o emprendimiento.
 
 ### ¿Porqué?
