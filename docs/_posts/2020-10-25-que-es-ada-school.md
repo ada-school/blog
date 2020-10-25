@@ -2,7 +2,7 @@
 
 layout: post
 author: gabriel-bernal
-title:  "¿Qué es y como funciona ADA School?"
+title:  "¿Qué es y cómo funciona ADA School?"
 category: ada-school
 
 ---
@@ -20,7 +20,7 @@ Diseñamos nuestro programa basados en las necesidades industria, enseñamos las
 Ofrecemos cursos virtuales que incorporan habilidades blandas y tecnologías que la industria requiere.
 
 ## Metodología
-Nuestra metodología pretende cerrar la brecha entre la instría y la educación actual. Usamos la tecnología para transformar
+Nuestra metodología pretende cerrar la brecha entre la industría y la educación actual. Usamos la tecnología para transformar
 la educacion en la herramienta que debe ser, inclusiva, práctica y personalizada.
 
 Conoce más en este video
