@@ -2,7 +2,7 @@
 layout: post
 author: gabriel-bernal
 title:  "¿Qué es y como funciona ADA School?"
-category: ada
+category: ada-school
 ---
 
 ## ¿Qué es ADA School?
