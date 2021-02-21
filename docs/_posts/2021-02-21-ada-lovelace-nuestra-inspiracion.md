@@ -32,5 +32,5 @@ para  incorporar a más mujeres a nuestro equipo, sabemos  que sólo esto nos ha
 
 Si quieres conocer más de la historia de Ada Lovelace te invitamos a ver el documental de la BBC:
 
-[(Calculating Ada - The Countess of Computing 2015)](https://www.youtube.com/watch?v=QgUVrzkQgds&feature=emb_err_woyt&ab_channel=ForgottenDairies)
+[Calculating Ada - The Countess of Computing 2015](https://www.youtube.com/watch?v=QgUVrzkQgds&feature=emb_err_woyt&ab_channel=ForgottenDairies)
 
