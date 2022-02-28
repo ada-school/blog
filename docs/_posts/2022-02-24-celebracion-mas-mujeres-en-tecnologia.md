@@ -2,7 +2,7 @@
 
 layout: post
 author: raul-caro
-title:  "¡Estamos de celebración!: Esta semana +200 mujeres iniciaron el curso de JavaScript Básico gratuito"
+title:  "¡Estamos de celebración! +200 mujeres iniciaron el curso JavaScript Gratuito"
 category: ada-school
 
 ---
